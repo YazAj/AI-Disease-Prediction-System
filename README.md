@@ -503,7 +503,7 @@ The repository is structured so that every output can be traced back to the Pyth
 
 <div align="center">
 
-### YAZID ALHAK
+### YAZID ALHAJ
 
 
 
