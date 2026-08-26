@@ -17,9 +17,6 @@ A complete end-to-end Artificial Intelligence course project that explores, prep
 
 <br>
 
-**Student:** AHMAD YOUSEF NEMER AYAAD  
-**Student ID:** 243039  
-**Course:** Artificial Intelligence Course Project
 
 </div>
 
@@ -506,9 +503,9 @@ The repository is structured so that every output can be traced back to the Pyth
 
 <div align="center">
 
-### AHMAD YOUSEF NEMER AYAAD
+### YAZID ALHAK
 
-**Student ID:** `243039`
+
 
 Artificial Intelligence Course Project
 
